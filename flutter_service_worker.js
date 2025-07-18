@@ -3,11 +3,11 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"flutter_bootstrap.js": "e4294c117b34193e1d4e6bfee19d2c70",
+const RESOURCES = {"flutter_bootstrap.js": "7a031d7b123cb8e191c56071eb4314ca",
 "version.json": "017d7da24fb5700cd3b99c9194d191e3",
 "index.html": "908ce31af80f838c98dae9155342ffb8",
 "/": "908ce31af80f838c98dae9155342ffb8",
-"main.dart.js": "4b207f7f70ac83d8859c2a80b726cbba",
+"main.dart.js": "deb4e308a113f814c1f5e568cedc35e3",
 "404.html": "64e7e68c5f8938be31b23ccb1d775a19",
 "flutter.js": "83d881c1dbb6d6bcd6b42e274605b69c",
 "favicon.png": "7350d527e385ea0b15906ba291a7c1e9",
@@ -29,7 +29,7 @@ const RESOURCES = {"flutter_bootstrap.js": "e4294c117b34193e1d4e6bfee19d2c70",
 "assets/packages/flutter_inappwebview/assets/t_rex_runner/t-rex.html": "16911fcc170c8af1c5457940bd0bf055",
 "assets/shaders/ink_sparkle.frag": "ecc85a2e95f5e9f53123dcaf8cb9b6ce",
 "assets/AssetManifest.bin": "509d67f198517ec7977bed0f6ec76cd6",
-"assets/fonts/MaterialIcons-Regular.otf": "0bc1a45c7b767a77489e12f0d7b0b02b",
+"assets/fonts/MaterialIcons-Regular.otf": "61cbc361c87bc73bdcb89887783cf55e",
 "assets/assets/login_logo.png": "30a1ecc9c667630444046704a26ac852",
 "assets/assets/fonts/Urbanist-Bold.ttf": "1ffe51e22e7841c65481a727515e2198",
 "assets/assets/fonts/Pacifico.ttf": "6b6170fe52fb23f505b4e056fefd2679",
